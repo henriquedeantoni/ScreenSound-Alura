@@ -1,4 +1,5 @@
-﻿using ScreenSound_04.Modelos;
+using ScreenSound_04.Modelos;
+using ScreenSound_04.Filtros;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 
@@ -11,9 +12,20 @@ using (HttpClient client = new HttpClient())
 
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta);
 
-        Console.WriteLine(musicas.Count);
+        //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        //LinqOrder.ExibirListaArtistasOrdenado(musicas);
+        //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
+        //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Will Smith");
 
-        musicas[0].ExibirDetalhesDaMusica();
+        var musicasPreferidasCliente = new MusicasPreferidas("Cliente");
+
+        musicasPreferidasCliente.AdicionarMusicasFavoritas(musicas[41]);
+        musicasPreferidasCliente.AdicionarMusicasFavoritas(musicas[324]);
+        musicasPreferidasCliente.AdicionarMusicasFavoritas(musicas[851]);
+        musicasPreferidasCliente.AdicionarMusicasFavoritas(musicas[1101]);
+        musicasPreferidasCliente.AdicionarMusicasFavoritas(musicas[1745]);
+
+        musicasPreferidasCliente.ExibirMusicasFavoritas();
     }
     catch(Exception ex)
     {
@@ -21,4 +33,6 @@ using (HttpClient client = new HttpClient())
     }
     
 }
+
+
 
