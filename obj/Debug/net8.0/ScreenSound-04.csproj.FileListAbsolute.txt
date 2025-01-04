@@ -1,0 +1,45 @@
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.exe
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.deps.json
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.sourcelink.json
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\refint\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound\ScreenSound-04\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.exe
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.deps.json
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.sourcelink.json
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\refint\ScreenSound-04.dll
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\sup-not-26\OneDrive\# WORKING\Alura\POO\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.exe
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.deps.json
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.sourcelink.json
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\refint\ScreenSound-04.dll
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\Henrique\Documents\CursoNET\Alura\CursoPOO_Alura\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll

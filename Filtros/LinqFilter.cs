@@ -1,4 +1,4 @@
-using ScreenSound_04.Modelos;
+﻿using ScreenSound_04.Modelos;
 using System.Linq;
 
 namespace ScreenSound_04.Filtros;
