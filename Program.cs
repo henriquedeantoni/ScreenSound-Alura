@@ -1,4 +1,4 @@
-﻿using ScreenSound_04.Modelos;
+using ScreenSound_04.Modelos;
 using ScreenSound_04.Filtros;
 using System.Text.Json;
 using System.Text.Json.Nodes;
@@ -36,4 +36,6 @@ using (HttpClient client = new HttpClient())
     }
     
 }
+
+
 
