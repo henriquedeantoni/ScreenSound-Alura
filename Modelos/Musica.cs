@@ -4,6 +4,8 @@ namespace ScreenSound_04.Modelos;
 
 internal class Musica
 {
+    private string[] tonalidades = {"C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"};
+
     [JsonPropertyName("song")]
     public string? Nome { get; set; }
 
@@ -22,6 +24,17 @@ internal class Musica
     [JsonPropertyName("popularity")]
     public string? Popularidade { get; set; }
 
+    [JsonPropertyName("key")]
+    public int Key { get; set; }
+
+    public string Tonalidade {
+
+        get
+        {
+            return tonalidades[Key];
+        }
+                
+    }
 
     public void ExibirDetalhesDaMusica()
     {
@@ -31,6 +44,7 @@ internal class Musica
         Console.WriteLine($"Gênero Musical: {Genero} ");
         Console.WriteLine($"Ano: {Ano} ");
         Console.WriteLine($"Popularidade: {Popularidade} ");
+        Console.WriteLine($"Tonalidade: {Tonalidade}");
     }
 }
 

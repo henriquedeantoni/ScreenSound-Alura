@@ -30,6 +30,9 @@ using (HttpClient client = new HttpClient())
 
         musicasPreferidasCliente.CriarArquivoJson();
         musicasPreferidasCliente.CriarArquivoTXTmusicasFavoritas();
+
+        LinqFilter.FiltrarMusicasPorTonalidade(musicas, "C#");
+        LinqOrder.ExibirQuantidadesDeMusicaPorTonalidade(musicas);
     }
     catch(Exception ex)
     {

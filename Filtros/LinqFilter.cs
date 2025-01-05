@@ -4,6 +4,7 @@ using System.Linq;
 namespace ScreenSound_04.Filtros;
 internal class LinqFilter
 {
+
     public static void FiltrarTodosOsGenerosMusicais(List<Musica> musica)
     {
         var todosGenerosMusicais = musica.Select(generos => generos.Genero ).Distinct().ToList();
@@ -47,9 +48,21 @@ internal class LinqFilter
     public static void FiltrarMusicasPorAno(List<Musica> musicas, string ano)
     {
         var musicasAno = musicas.Where(musica => musica.Ano!.Equals(ano)).ToList();
-        Console.WriteLine($"Exibindo As músicas do ano {ano} \n");
+        Console.WriteLine($"Exibindo as músicas do ano {ano} \n");
 
         foreach (var musica in musicasAno)
+        {
+            Console.WriteLine($"- {musica.Nome}");
+        }
+    }
+
+    public static void FiltrarMusicasPorTonalidade(List<Musica> musicas, string nomeTonalidade)
+    {
+        var musicasTonalidade = musicas.Where(musica => musica.Tonalidade!.Equals(nomeTonalidade)).ToList();
+
+        Console.WriteLine($"\nExibindo as músicas que possuem a tonalidade {nomeTonalidade}: \n");
+
+        foreach(var musica in musicasTonalidade )
         {
             Console.WriteLine($"- {musica.Nome}");
         }
