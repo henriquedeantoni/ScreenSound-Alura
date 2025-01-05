@@ -16,6 +16,7 @@ using (HttpClient client = new HttpClient())
         //LinqOrder.ExibirListaArtistasOrdenado(musicas);
         //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
         //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Will Smith");
+        LinqFilter.FiltrarMusicasPorAno(musicas, "1999");
 
         var musicasPreferidasCliente = new MusicasPreferidas("Cliente");
 
