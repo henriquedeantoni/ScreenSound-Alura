@@ -16,12 +16,21 @@ internal class Musica
     [JsonPropertyName("genre")]
     public string? Genero { get; set; }
 
+    [JsonPropertyName("year")]
+    public string? Ano { get; set; }
+
+    [JsonPropertyName("popularity")]
+    public string? Popularidade { get; set; }
+
+
     public void ExibirDetalhesDaMusica()
     {
         Console.WriteLine($"Artista: {Artista} ");
         Console.WriteLine($"Música: {Nome} ");
         Console.WriteLine($"Duração: {(int)Duracao/1000} segundos");
         Console.WriteLine($"Gênero Musical: {Genero} ");
+        Console.WriteLine($"Ano: {Ano} ");
+        Console.WriteLine($"Popularidade: {Popularidade} ");
     }
 }
 
